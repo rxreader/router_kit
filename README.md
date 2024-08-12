@@ -1,5 +1,8 @@
 # router_kit
 
+> Provider 没啥拓展性，结合 Jetpack Compose UI 里的 Node 节点模式和语法糖重构一下，这样可玩性就强多了 ...
+> 这项目放到工程项目里的 packages 文件夹下本地应用会比较好 ...
+
 ## [router_annotation](./router_annotation)
 
 [![Pub Package](https://img.shields.io/pub/v/router_annotation.svg)](https://pub.dev/packages/router_annotation)
